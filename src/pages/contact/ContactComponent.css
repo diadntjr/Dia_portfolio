@@ -2,6 +2,12 @@
   width: 100%;
 }
 
+.logoImg {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 45%;
+}
+
 .basic-contact {
   margin-left: 5%;
   margin-right: 5%;
